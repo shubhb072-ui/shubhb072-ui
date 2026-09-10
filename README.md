@@ -36,9 +36,9 @@ I enjoy building practical software — from **enterprise-style workflow systems
 <p align="center">
   <b>Backend</b> · Spring Security · JWT · JPA · REST APIs
   <br>
-  <b>AI</b> · Google Gemini
+  <b>AI</b> · Google Gemini · OpenAI
   <br>
-  <b>Core CS</b> · DSA · OOP · DBMS · Operating Systems · Computer Networks
+  <b>Core CS</b> · DSA · OOP · DBMS · OS · CN
 </p>
 
 ---
