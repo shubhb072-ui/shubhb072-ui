@@ -23,7 +23,7 @@ I enjoy building practical software — from **enterprise-style workflow systems
 🎓 B.Tech CSE · 2023–2027  
 📍 Ghaziabad, Uttar Pradesh  
 💼 Technical Intern · Tectura Infotech  
-🧠 100+ DSA problems solved on coding platforms
+🧠 200+ DSA problems solved on coding platforms
 
 ---
 
