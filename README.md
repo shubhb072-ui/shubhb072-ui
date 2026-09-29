@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./TECH%20PIC.png" width="100%" alt="SHUBH BHARDWAJ Tech Stack"/>
+  <img src="./TECHH%20PIC.png" width="100%" alt="SHUBH BHARDWAJ Tech Stack"/>
 </div>
 
 <br>
