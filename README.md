@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./TECH%20PIC.png" width="100%" alt="SHUBH BHARDWAJ Tech Stack"/>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=190&section=header&text=SHUBH%20BHARDWAJ&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI&descAlignY=64&descSize=18&descColor=CBD5E1" width="100%" alt="SHUBH BHARDWAJ"/>
 
